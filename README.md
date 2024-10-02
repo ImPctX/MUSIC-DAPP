@@ -9,4 +9,7 @@ A decentralized application (DApp) built using the MERN stack (MongoDB, Express.
 - **MERN Stack**: Utilize MongoDB for database management, Express.js and Node.js for backend services, and React for a dynamic frontend.
 - **User Interaction**: Allow artists to create profiles, share music, and engage with fans in a community-driven environment.
 
+## Interface Overview
+
+  <p align="center"><img src="image/overview.jpg" alt="Overview" width="100%" /></p>
 
